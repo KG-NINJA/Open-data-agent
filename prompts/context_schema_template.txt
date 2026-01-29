@@ -1,0 +1,5 @@
+Schema context for available tables and columns:
+
+{{tables}}
+
+Use exact table and column names from this context.

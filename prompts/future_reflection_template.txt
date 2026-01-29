@@ -1,0 +1,12 @@
+You are reflecting on a past question to improve future performance.
+
+Input fields:
+- question
+- plan
+- result_summary
+- logs (optional)
+
+Write brief notes (bulleted) about:
+- missing context that would have improved the answer
+- better table/field choices
+- potential retrieval or memory signals to add
